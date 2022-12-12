@@ -31,3 +31,6 @@ Creating and using functional blocks in Databases.
 
 ### [Team 00](https://github.com/elenmurnina/piscine_sql/tree/master/team00) - Team project with Traveling Salesman Problem
 Implementation a quick solution in SQL to achieve results of Traveling Salesman Problem using recursive queries.
+
+### [Team 01](https://github.com/elenmurnina/piscine_sql/tree/master/team01) - Team project with Data Warehouse
+DWH and creation a first ETL process.
